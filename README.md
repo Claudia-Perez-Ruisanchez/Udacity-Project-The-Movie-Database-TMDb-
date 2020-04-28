@@ -1,4 +1,6 @@
-# Udacity-Project-The-Movie-Database-TMDb-
+
+![](photo.jpeg)
+# Udacity Project: The Movie Database (TMDb)
 
 ## Introduction
 
